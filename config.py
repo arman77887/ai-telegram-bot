@@ -33,4 +33,4 @@ class Config:
         'grok': {'name': 'Grok', 'enabled': bool(GROK_API_KEY)}
     }
     
-    DEFAULT_MODEL = 'chatgpt'
+    DEFAULT_MODEL = 'gemini'
